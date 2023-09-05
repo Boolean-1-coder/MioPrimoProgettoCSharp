@@ -23,4 +23,3 @@ for(int i = 0; i < numeriEstratti.Length; i++)
 }
 
 Console.WriteLine("Alla prossima giocata!");
-Console.WriteLine(numeriEstratti);
